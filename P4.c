@@ -1,4 +1,4 @@
-//Ot·vio Zumpano Cunha Rodrigues
+//Ot√°vio Zumpano Cunha Rodrigues
 //11721EEL016
 
 #include <stdio.h>
